@@ -1,0 +1,39 @@
+name: scientific-programming
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python version
+  - python>=3.8
+  
+  # Core scientific computing libraries
+  - numpy>=1.21.0
+  - pandas>=1.3.0
+  - scipy>=1.7.0
+  
+  # Visualization libraries
+  - matplotlib>=3.4.0
+  - seaborn>=0.11.0
+  
+  # Jupyter ecosystem
+  - jupyter>=1.0.0
+  - ipython>=7.0.0
+  - jupyterlab>=3.0.0
+  
+  # Development and testing tools
+  - pytest>=6.0.0
+  - black>=21.0.0
+  - flake8>=3.9.0
+  
+  # Documentation
+  - sphinx>=4.0.0
+  
+  # Additional useful packages for scientific programming
+  - scikit-learn>=1.0.0
+  - plotly>=5.0.0
+  - networkx>=2.6.0
+  
+  # Pip dependencies (if any packages are not available via conda)
+  - pip
+  - pip:
+    - # Add any pip-only packages here if needed
