@@ -32,8 +32,8 @@ This advanced course is designed to equip students with the programming, computa
 
 <table>
 <tr><th>📅 Date</th><th>📚 Session</th><th>🎯 Focus</th></tr>
-<tr><td>Oct 10</td><td><strong>Introduction & Modern Development Ecosystem</strong></td><td>AI-assisted coding, environment setup</td></tr>
-<tr><td>Oct 17</td><td><strong>Programming Fundamentals</strong></td><td>Python basics, data structures</td></tr>
+<tr><td>Oct 10</td><td><strong><a href="day01-introduction/README.md">Introduction & Modern Development Ecosystem</a></strong></td><td>AI-assisted coding, environment setup</td></tr>
+<tr><td>Oct 17</td><td><strong><a href="day02-fundamentals/README.md">Programming Fundamentals</a></strong></td><td>Python basics, data structures</td></tr>
 <tr><td>Oct 31</td><td><strong>Development Tools & Workflow</strong></td><td>Git, IDEs, collaboration</td></tr>
 <tr><td>Nov 07</td><td><strong>Numerical Computing Foundations</strong></td><td>NumPy, matplotlib, SciPy</td></tr>
 <tr><td>Nov 14</td><td><strong>Data Manipulation & Analysis</strong></td><td>Pandas, data cleaning</td></tr>
