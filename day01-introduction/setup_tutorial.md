@@ -136,15 +136,6 @@ Open Anaconda Prompt/Terminal and run:
 ```bash
 # Core scientific stack (usually pre-installed with Anaconda)
 conda install numpy pandas matplotlib seaborn scipy jupyter
-
-# Additional useful packages
-conda install plotly scikit-learn statsmodels
-
-# Development tools
-conda install black flake8 pytest
-
-# Neurosciience-specific (optional, for later)
-pip install neo elephant mne-python
 ```
 
 ### Verify Installation

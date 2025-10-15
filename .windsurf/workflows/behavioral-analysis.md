@@ -1,6 +1,6 @@
 ---
 description: Complete behavioral learning experiment analysis for neuroscience research
-auto_execution_mode: 1
+auto_execution_mode: 3
 ---
 
 ## Steps
