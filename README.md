@@ -35,7 +35,7 @@ This advanced course is designed to equip students with the programming, computa
 <tr><td>Oct 10</td><td><strong><a href="day01-introduction/README.md">Introduction & Modern Development Ecosystem</a></strong></td><td>AI-assisted coding, environment setup</td></tr>
 <tr><td>Oct 17</td><td><strong><a href="day02-fundamentals/README.md">Programming Fundamentals</a></strong></td><td>Python basics, data structures</td></tr>
 <tr><td>Oct 31</td><td><strong><a href="day03-workflows/README.md">Development Tools & Workflow</a></strong></td><td>Git, IDEs, collaboration</td></tr>
-<tr><td>Nov 07</td><td><strong>Numerical Computing Foundations</strong></td><td>NumPy, matplotlib, SciPy</td></tr>
+<tr><td>Nov 07</td><td><strong><a href="day04-numerics/README.md">Numerical Computing Foundations</a></strong></td><td>NumPy, matplotlib, SciPy</td></tr>
 <tr><td>Nov 14</td><td><strong>Data Manipulation & Analysis</strong></td><td>Pandas, data cleaning</td></tr>
 <tr><td>Nov 21</td><td><strong>Visualization & Communication</strong></td><td>Publication-quality figures</td></tr>
 <tr><td>Nov 28</td><td><strong>Intermediate Programming Concepts</strong></td><td>Error handling, documentation</td></tr>
