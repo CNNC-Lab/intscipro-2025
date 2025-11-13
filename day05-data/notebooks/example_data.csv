@@ -1,0 +1,10 @@
+subject_id,condition,trial,rt,accuracy
+S01,control,1,523,1
+S01,control,2,498,1
+S01,drug,3,412,1
+S02,control,1,545,0
+S02,control,2,501,1
+S02,drug,3,389,1
+S03,control,1,556,1
+S03,control,2,534,0
+S03,drug,3,423,1
